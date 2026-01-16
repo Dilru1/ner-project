@@ -13,3 +13,5 @@ env/
 # Data (Optional: Uncomment if you don't want to upload the dataset to GitHub)
 # *.gz
 # *.json 
+# Model checkpoints
+model_checkpoints/*.pt
